@@ -7,7 +7,11 @@
     "url": "git://github.com/hammerdr/hamljs-coffee.git"
   },
   "author": "Derek Hammer <derek.r.hammer@gmail.com> (http://www.derekhammer.com)",
-  "main": "src/hamljs-coffee.js",
+  "main": "./src/hamljs-coffee.js",
+  "dependencies": {
+    "coffee-script": "1.0.0",
+    "hamljs": "0.5.1"
+  },
   "directories": {
     "lib": "."
   },
