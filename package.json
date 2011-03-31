@@ -1,0 +1,17 @@
+{
+  "name": "hamljs-coffee",
+  "description": "Extension that allows for use of coffeescript inside of haml templates",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hammerdr/hamljs-coffee.git"
+  },
+  "author": "Derek Hammer <derek.r.hammer@gmail.com> (http://www.derekhammer.com)",
+  "main": "src/hamljs-coffee.js",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "0.4.4"
+  }
+}
